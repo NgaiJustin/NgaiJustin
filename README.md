@@ -1,4 +1,10 @@
+<p align="center">
+  <img src="./jngai.svg" width=400>
+</p>
+
 ### Hi there 👋
+
+I'm Justin Ngai, and welcome to my Github profile! I am currently an undergraduate at Cornell University studying computer science. Feel free to check out my [website](https://justinngai.me/) for more info!
 
 <!--
 **NgaiJustin/NgaiJustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
